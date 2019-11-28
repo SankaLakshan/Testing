@@ -13,6 +13,6 @@ clear
 echo staring script 2
 
 
-sudo /usr/apps/tomcat/apache-tomcat-9.0.27/bin/startup.sh
+/usr/apps/tomcat/apache-tomcat-9.0.27/bin/startup.sh
 
 echo end of script 2

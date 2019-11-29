@@ -19,6 +19,7 @@ else
 	echo Backup process started
 
  cp -urf $1* ~/
+ ls -al
 fi
 
 echo i edited as a branch.

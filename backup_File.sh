@@ -18,7 +18,7 @@ else
 	echo Path is:$1
 	echo Backup process started
 
- cp -urf $1* ~/backup/
+ cp -urf $1* ~/:
 fi
 
 echo i edited as a branch.

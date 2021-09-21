@@ -14,7 +14,9 @@ echo staring script 1
 echo
 echo -n hostname:
 hostname
-
+hostname
+hostname
+hostname
 echo -n logged as:
 whoami
 
